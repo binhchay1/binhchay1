@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 [![binhchay1's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhchay1)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhchay1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 🏆GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=binhchay1)](https://github.com/ryo-ma/github-profile-trophy)
