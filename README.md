@@ -23,7 +23,7 @@ Here’s a peek at some stuff I’ve built (check out my repos for more!):
 |-----------------|------------------------------------------------------------------------------|
 | **Languages**   | PHP, JavaScript, Dart, HTML, CSS                                             |
 | **Frameworks**  | Laravel, Flutter, WordPress, Tailwind CSS, AdminLTE                          |
-| **Databases**   | MySQL, PostgreSQL, Redis                                                    |
+| **Databases**   | MySQL, PostgreSQL, Redis, MongoDB                                                    |
 | **Tools**       | Git, Composer, NPM, Docker, Postman, VSCode                                  |
 | **APIs**        | REST, JWT (Passport), Swagger, Social Auth (Google, FB), Twilio, VNPay      |
 | **Others**      | SEO (Rank Math), CI/CD, WebP optimization, Google Analytics, Cloudflare CDN  |
