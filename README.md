@@ -58,7 +58,7 @@ Got an idea? Drop me a message or open an issue on any of my repos! 🌟
 ## 📬 Get in Touch
 - **Email**: [binhchay1@gmail.com](mailto:binhchay1@gmail.com)
 - **GitHub**: [github.com/binhchay1](https://github.com/binhchay1)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/thanh-b%C3%ACnh-nguy%E1%BB%85n-b40124219/))
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/thanh-b%C3%ACnh-nguy%E1%BB%85n-b40124219/)
 
 If you like what I’m building, give my repos a ⭐ – it keeps me coding! 😎
 
