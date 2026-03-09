@@ -9,7 +9,7 @@ Welcome to my GitHub corner! I'm a passionate **web developer** from Vietnam �
 - 🌱 **Currently Learning**: Mastering Laravel’s ecosystem (queues, Passport, Livewire), Flutter for cross-platform apps, and diving into DevOps with Docker and CI/CD.
 - 💻 **Skills**: PHP, Laravel, WordPress, Flutter, MySQL, Redis, JavaScript, REST APIs, SEO, and more!
 - 💞️ **Looking to Collaborate**: Open-source projects, cool APIs, or anything that pushes my coding skills to the next level.
-- 📫 **Reach Me**: [binhchay1@gmail.com](mailto:binhchay1@gmail.com) | [LinkedIn](#) | [GitHub Issues](https://github.com/binhchay1)
+- 📫 **Reach Me**: [binhchay1@gmail.com](mailto:binhchay1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thanh-b%C3%ACnh-nguy%E1%BB%85n-b40124219/) | [GitHub Issues](https://github.com/binhchay1)
 
 ## 🛠️ Featured Projects
 Here’s a peek at some stuff I’ve built (check out my repos for more!):
